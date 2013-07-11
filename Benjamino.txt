@@ -1,0 +1,4 @@
+The Benjamino is basicly a customization of the Sanguino (Arduino with ATmega644) into
+the conventional format for easy USB interface, shields, power etc. Has 32 pins in total.
+Once again, the power switching is wrong, but this time it's the MOSFET being connected
+the wrong way. Created February 2011

@@ -1,0 +1,5 @@
+The X Project was quite an ambitious design, utilising an ATXmega MCU, more specifically the Xmega16A4
+in an Arduino-style board. Introducing 12 analog input pins (32 in total) and whopping five UART ports.
+Unfourtunately 3.3V only but packing a DAC and abeefy 32MHz crystal, it would have been a fun board.
+It's a shame I don't have the skills to write the software for it... Atleast this time I think the
+power circuitry is fine, for there is no op-amp to misunderstand. Created April 2011

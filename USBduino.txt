@@ -1,0 +1,4 @@
+The USBduino is a board I just had to throw together when I heard about the (back then new) ATmega32u4 MCU...
+Yes, I am aware that there is now an official Arduino board with this MCU, but keep in mind that this was made
+in March 2011. Originally intended to use the LUFA CDC bootloader. Note: I the power selector part of the schematic 
+is probably wrong. Created March 2011
